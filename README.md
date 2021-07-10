@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohinisharma
 - 👀 I’m interested in ... software development
-- 🌱 I’m currently learning ...Reactjs and Nodejs
+- 🌱 I’m currently learning ...Web technologies 
 - 💞️ I’m looking to collaborate on ... software development
 - 📫 How to reach me ... mohinisharma7017@gmail.com
 
